@@ -1,0 +1,22 @@
+.contentt {
+  margin-top: 50px;
+}
+.user {
+  color: #0000aa;
+}
+.user-date {
+  color: #3c763d;
+  font-size: 0.7em;
+}
+.chat-window {
+  border: 1px solid #000000;
+  padding: 10px;
+  height: 250px;
+  overflow-y: scroll;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
